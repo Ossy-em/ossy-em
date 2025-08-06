@@ -2,8 +2,8 @@ I’m a software engineer who’s passionate about contributing to open source a
 
 Currently building
 
-Tools to help Researchers get work done faster
-APIs that are easy to use and scale well
+- Tools to help Researchers get work done faster
+- APIs that are easy to use and scale well
 
 Let’s connect
 
