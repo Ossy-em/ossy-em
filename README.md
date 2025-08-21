@@ -7,4 +7,4 @@ Currently building
 
 Let’s connect
 
-If you want to chat about an idea, collaborate on a project, or just geek out about tech, feel free to reach out.
+If you want to chat about an idea, collaborate on a project, or whatnot feel free to reach out.
