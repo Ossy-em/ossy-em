@@ -1,10 +1,7 @@
-I’m a software engineer who’s passionate about contributing to open source and building solutions that make a real difference. I enjoy exploring new ideas, collaborating with other developers, and pushing my skills a little further every day. Some technologies i enjoy working with includes, JavaScript, TypeScript, React, Next.js, and Django for backend.
+I’m a frontend developer, and deep-tech fan on a mission to build things that actually matter. Lately, I’ve been really into blockchain and finance, finding ways to make complex systems feel simple and useful. Some technologies i enjoy working with includes, JavaScript, TypeScript, React, Next.js, and Django for backend.
 
 Currently building
 
-- Tools to help Researchers get work done faster
-- APIs that are easy to use and scale well
-
-Let’s connect
+- StockAI
 
 If you want to chat about an idea, collaborate on a project, or whatnot feel free to reach out.
