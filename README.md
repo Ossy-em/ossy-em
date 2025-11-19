@@ -2,6 +2,5 @@ I’m a frontend developer, and deep-tech fan on a mission to build things that 
 
 Currently building
 
-- StockAI
+- Tradra: A trading platform that gives users real-time market insights, smart comparisons, and clearer analytics — all in one place.
 
-If you want to chat about an idea, collaborate on a project, or whatnot feel free to reach out.
