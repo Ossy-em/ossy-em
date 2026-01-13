@@ -1,6 +1,1 @@
-I’m a frontend developer, and deep-tech fan on a mission to build things that actually matter. Lately, I’ve been really into blockchain and finance, finding ways to make complex systems feel simple and useful. Some technologies i enjoy working with includes, JavaScript, TypeScript, React, Next.js, and Django for backend.
-
-Currently building
-
-- Tradra: A trading platform that gives users real-time market insights, smart comparisons, and clearer analytics — all in one place.
-
+I’m a Frontend Developer focused on building structured, scalable interfaces using Next.js and TypeScript.I’m big on learning how the web evolves, from emerging AI tools to real shifts happening in finance, markets, and blockchain.I enjoy breaking down complex product ideas into simple, usable experiences that actually make sense to people.I share thoughts on tech trends, the future of web apps, and how AI is changing the way we ship products.
